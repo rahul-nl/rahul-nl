@@ -6,20 +6,20 @@
 - 🔭 &nbsp; I’m currently learning Web Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Communication, Verilog and Microcontrollers.
-- 💼 &nbsp; i design stuff.
+- 💼 &nbsp; I design stuff for others and also can design for you 😏.
+- 🌱 &nbsp; UI/UX Designer.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; Android | flutter | J2EE
+- 💻 &nbsp; Python | C++ | HTML | CSS | JavaScript | VHDL
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
+- 🔧 &nbsp; PyCharm | Visual Studio code | Git | Kiel | 
+- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | Adobe Premier Pro | Figma 
 
 <br>
 
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-nl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rahul-nl's Github Stats">
 
 </br>
 
@@ -29,10 +29,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/rahulnl_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/rahulnl_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/rahulnl/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:rahulnl2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 
