@@ -14,7 +14,8 @@
 - 💻 &nbsp; Python | C++ | HTML | CSS | JavaScript | PHP
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git | Kiel | 
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | Adobe Premier Pro | Figma 
+- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | Adobe Premier Pro | Figma
+- 👩‍💻 &nbsp; SharePoint | Power Apps | Power Automate 
 
 
 
