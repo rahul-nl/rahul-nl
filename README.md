@@ -1,11 +1,12 @@
+
 <h2> Hey there! 👋 I'm Rahul N L.</h2>
 <img align="right" alt="GIF" src="http://www.geocities.ws/ungkushahirah/images/animated-00.gif" width="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Development
+- 🔭 &nbsp; I’m currently learning Microsoft Power Platform, Astro & Node.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics and Communication, Verilog and Microcontrollers.
+- 🎓 &nbsp; Degree in Electronics and Communication.
 - 💼 &nbsp; I design stuff for others and also can design for you 😏.
 - 🌱 &nbsp; UI/UX Designer.
 
@@ -13,7 +14,7 @@
 
 - 💻 &nbsp; Python | C++ | HTML | CSS | JavaScript | PHP
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git | Kiel | 
+- 🔧 &nbsp; PyCharm | Visual Studio code | Git | Kiel 
 - 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | Adobe Premier Pro | Figma
 - 👩‍💻 &nbsp; SharePoint | Power Apps | Power Automate 
 
